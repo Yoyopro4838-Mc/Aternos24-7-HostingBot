@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "Lifesteal-S27e.aternos.me",
+    "port": 21072,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'M THE GOAT!",
+        "The Lifesteal Smp... Interesting."
       ]
     },
     "chat-log": true,
@@ -47,7 +46,7 @@
     }
   },
   "movement": {
-    "enabled": true,
+    "disabled": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
@@ -58,7 +57,7 @@
       "interval": 5000
     },
     "random-jump": {
-      "enabled": true,
+      "disabled": true,
       "interval": 10000
     }
   },
